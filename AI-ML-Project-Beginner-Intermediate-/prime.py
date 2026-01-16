@@ -1,1 +1,0 @@
-print("find the number is  prime oro not")
